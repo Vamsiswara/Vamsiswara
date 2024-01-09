@@ -1,0 +1,233 @@
+{
+    "schemes": [
+      
+        {
+            "plan":"hello",
+            "target_audience":"Hi there!"
+        },
+        {
+            "plan":"how are you",
+            "target_audience":"I am just a bot, but thanks for asking!"
+        },
+        {
+            "plan":"your name",
+            "target_audience":"I am a egovernace chatbot."
+        },
+        {
+            "plan":"good morning",
+            "target_audience":"Good morning! How can I assist you today?"
+        },
+        {
+            "plan": "Hey",
+            "target_audience": "Hey! How's it going?"
+        },
+        {
+            "plan":"goodbye",
+            "target_audience":"Goodbye! Have a great day!"
+        },
+        {
+            "plan":"What can you do?",
+            "target_audience":"I can help answer questions, provide information, or just chat with you."
+        },
+        {
+            "plan":"Tell me a joke",
+            "target_audience":"Why do not scientists trust atoms? Because they make up everything!"
+        },
+        {
+            "plan":"How does the internet work?",
+            "target_audience":"The internet is a global network of interconnected computers that communicate using standardized protocols. It allows the exchange of information through data packets sent over various channels."
+        },
+        {
+            "plan":"Who is your creator?",
+            "target_audience":"I was created by presidency university students. My training data comes from diverse sources on the internet."
+        },
+        {
+            "plan": "PM KISAN pradhan mantri kisan samman nidhi",
+            "target_audience": " Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Central Sector scheme with 100% funding from the Government of India. It has been operational since December 1, 2018. The scheme provides an income support of ₹6,000 per year in three equal installments to all landholding farmer families. The definition of family for the scheme is husband, wife, and minor children. The state government and UT administration identify the farmer families that are eligible for support as per scheme guidelines. The fund is directly transferred to the bank accounts of the beneficiaries.Please note that eKYC is mandatory for PMKISAN registered farmers. OTP-based eKYC is available on the PMKISAN portal, or nearest CSC centers may be contacted for biometric-based eKYC.click here https://pmkisan.gov.in/"
+        },
+        {
+            "plan": "Mahila Samman Savings Certificate (MSSC)",
+            "target_audience": "Mahila Samman Savings Certificate (MSSC) is a one-time small savings scheme launched by the Government of India in April 2023 to commemorate the Azadi Ka Amrit Mahotsav. The scheme is open to all women, including married women, widows, and women with disabilities. The scheme offers a fixed interest rate of 7.5% per annum and has a maturity period of two years. The minimum deposit amount under the scheme is ₹1,000 in multiples of rupees one hundred, and the maximum deposit amount is ₹2 lakh in one account or all Mahila Samman Savings Certificate accounts held by an account holder. click here https://cleartax.in/s/mahila-samman-saving-certificate "
+        },
+        {
+            "plan": "PM Poshan Shakti Nirman Abhiyaan",
+            "target_audience": "Pradhan Mantri Poshan Shakti Nirman Abhiyaan (PM-POSHAN) is a scheme launched by the Indian government to provide nutritious meals to school-going children. The scheme aims to cover 11.80 crore children in 11.20 lakh schools 1. The scheme replaced the national program for mid-day meal in schools or Mid-day Meal Scheme 2. The per child per day cooking cost is ₹ 4.97 for primary and ₹ 7.45 for upper primary w.e.f. 1st April, 2020 3. The scheme is backed by the government and does not have any credit risk. click here https://pmposhan.education.gov.in/"
+        },
+        {
+            "plan":"Strengthening Teaching-Learning and Results for States",
+            "target_audience": "Strengthening Teaching-Learning and Results for States (STARS) is a centrally sponsored scheme launched by the Indian government to improve the quality and governance of school education in six identified states. The scheme aims to enhance learning outcomes, teaching quality, and education governance. The project became effective on 23rd February 2021 for a period of five years i.e. up to FY: 2024-25. The scheme is being implemented as a new Centrally Sponsored Scheme under the Department of School Education and Literacy, Ministry of Education. click here https://www.impriindia.com/insights/policy-update/stars-project/#:~:text=The%20goal%20of%20the%20STARS,that%20enhance%20labor%20market%20outcomes. "
+        },
+        {
+            "plan":"Svamitva Yojana",
+            "target_audience": "Svamitva Yojana is a property survey program launched by Indian Prime Minister Narendra Modi on April 24, 2020, as a central-sector scheme to promote socio-economic empowerment and a more self-reliant rural India 1. The scheme aims to survey about 6.62 lakh villages across the country from 2021 to 2025, using varied technology including drones to collect property data 1. The initial phase of the scheme was implemented during 2020-21 in select villages of Maharashtra, Karnataka, Haryana, Uttar Pradesh, Uttarakhand, Madhya Pradesh, Punjab and Rajasthan. click here https://svamitva.nic.in/svamitva "
+        },
+        {
+            "plan":"Garib Kalyan Rojgar Abhiyaan",
+            "target_audience": "Garib Kalyan Rojgar Abhiyaan (GKRA) is a 125-day Abhiyan launched by Honble Prime Minister on 20th June, 2020 with a mission to address the issues of returnee migrant workers and similarly affected rural population by Covid-19 pandemic through a multi-pronged strategy of providing immediate employment & livelihood opportunities to the distressed, to saturate the villages with public infrastructure and creation of livelihood assets to boost the income generation activities and enhance long term livelihood opportunities by giving focus on 25 works in 116 selected districts across 6 States with a resource envelope of ₹50,000 crore. click here https://rural.nic.in/en/press-release/programmes-garib-kalyan-rojgar-abhiyan"
+        },
+        {
+            "plan":"PM Matsya Sampada Yojana",
+            "target_audience": "Pradhan Mantri Matsya Sampada Yojana (PM-POSHAN) is a scheme launched by the Indian government to promote the sustainable development of the fisheries sector in India. The scheme aims to enhance fish production and productivity through expansion, intensification, diversification, and productive utilization of land and water. The scheme has an estimated investment of ₹20,050 crores for its implementation during a period of 5 years from FY 2020-21 to FY 2024-25 in all States/Union Territories. click here https://pmmsy.dof.gov.in/ "
+        },
+        {
+            "plan": "PM KISAN pradhan mantri kisan samman nidhi",
+            "target_audience": " Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Central Sector scheme with 100% funding from the Government of India. It has been operational since December 1, 2018. The scheme provides an income support of ₹6,000 per year in three equal installments to all landholding farmer families. The definition of family for the scheme is husband, wife, and minor children. The state government and UT administration identify the farmer families that are eligible for support as per scheme guidelines. The fund is directly transferred to the bank accounts of the beneficiaries.Please note that eKYC is mandatory for PMKISAN registered farmers. OTP-based eKYC is available on the PMKISAN portal, or nearest CSC centers may be contacted for biometric-based eKYC"
+        },
+        {
+            "plan": "Jal Jeevan Mission",
+            "target_audience": "Jal Jeevan Mission is a scheme launched by the Indian government to provide safe and adequate drinking water through individual household tap connections by 2024 to all households in rural India. The programme will also implement source sustainability measures as mandatory elements, such as recharge and reuse through grey water management, water conservation, rainwater harvesting. The scheme is backed by the government and does not have any credit risk. click here https://jaljeevanmission.gov.in/"
+        },
+        {
+            "plan":"Atal Bhujal Yojana",
+            "target_audience":"Atal Bhujal Yojana (ABY) is a groundwater management scheme launched by the Indian government on December 25, 2019, to improve groundwater management in seven states of India. The scheme aims to promote sustainable groundwater management with community participation. The scheme has an estimated investment of ₹6,000 crore for its implementation during a period of 5 years from FY 2020-21 to FY 2024-25 in all States/Union Territories 12. The scheme envisages peoples participation through the formation of Water User Associations, water budgeting, preparation & implementation of Gram-panchayat-wise water security plans, etc. click here https://ataljal.mowr.gov.in/About/About"
+        },
+        {
+            "plan":"PM Kisan Urja Suraksha Evam Utthan Mahabhiyan",
+            "target_audience": "Pradhan Mantri Kisan Urja Suraksha Evam Utthan Mahabhiyan (PM-KUSUM) is a scheme launched by the Indian government to ensure energy security for farmers in India, along with honouring Indias commitment to increase the share of installed capacity of electric power from non-fossil-fuel sources to 40% by 2030. The scheme has an estimated investment of ₹20,050 crores for its implementation during a period of 5 years from FY 2020-21 to FY 2024-25 in all States/Union Territories. The scheme has three components: setting up of 10,000 MW of Decentralized Grid Connected Renewable Energy Power Plants on barren land, installation of 17.50 Lakh stand-alone solar agriculture pumps, and solarisation of 10 Lakh Grid Connected Agriculture Pumps. The scheme is backed by the government and does not have any credit risk. click here https://www.india.gov.in/spotlight/pm-kusum-pradhan-mantri-kisan-urja-suraksha-evam-utthaan-mahabhiyan-scheme"
+        },
+        {
+            "plan": "PM Shram Yogi Mandhan",
+            "target_audience": "Pradhan Mantri Shram Yogi Mandhan (PM-SYM) is a pension scheme launched by the Indian government for unorganised workers. The scheme aims to provide old age protection for unorganised workers who are mostly engaged as home-based workers, street vendors, mid-day meal workers, head loaders, brick kiln workers, cobblers, rag pickers, domestic workers, washermen, rickshaw pullers, landless laborers, own account workers, agricultural workers, construction workers, beedi workers, handloom workers, leather workers, audio-visual workers, and similar other occupations whose monthly income is ₹15,000 or less and belong to the entry age group of 18-40 years. The scheme is voluntary and contributory, and the subscriber would receive a minimum assured pension of ₹3,000 per month after attaining the age of 60 years. The scheme is backed by the government and does not have any credit risk. click here https://labour.gov.in/pm-sym"
+        },
+        {
+            "plan": "PM Annadata Aay Sanrakshan Abhiyan",
+            "target_audience": "Pradhan Mantri Annadata Aay SanraksHan Abhiyan (PM-AASHA) is an umbrella scheme launched by the Indian government to ensure remunerative prices to farmers for their produce. The scheme is aimed towards enhancing agricultural productivity, reducing the cost of cultivation, and securing farmers income in the long run. The scheme has three components: Price Support Scheme (PSS), Price Deficiency Payment Scheme (PDPS), and Pilot of Private Procurement & Stockist Scheme (PPPS). The scheme is backed by the government and does not have any credit risk. click here https://www.india.gov.in/spotlight/pradhan-mantri-annadata-aay-sanrakshan-abhiyan-pm-aasha"
+        },
+        {
+            "plan": "Ayushman Bharat Yojana",
+            "target_audience": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) is a flagship health protection scheme launched by the Government of India in 2018. The scheme aims to provide universal health coverage to the poor and vulnerable sections of society by ensuring access to quality healthcare services agnostic of economic status 12. The scheme provides an insurance cover of up to ₹5 lakhs per family per year for secondary and tertiary care hospitalization 2. The scheme covers more than 10 crore poor and vulnerable families (approximately 50 crore beneficiaries) 2. The scheme is implemented by the National Health Authority (NHA). click here https://nha.gov.in/PM-JAY"
+        },
+        {
+            "plan": "Samagra Shiksha",
+            "target_audience": "Samagra Shiksha is a centrally sponsored scheme launched by the Indian government to improve the quality of school education from pre-school to class 12. The scheme subsumes the three schemes of Sarva Shiksha Abhiyan (SSA), Rashtriya Madhyamik Shiksha Abhiyan (RMSA), and Teacher Education (TE) 1. The scheme aims to enhance school effectiveness measured in terms of equal opportunities for schooling and equitable learning outcomes. The scheme supports various initiatives such as Padhe Bharat Badhe Bharat, Library grant, Sports, Experiential Learning, Inclusive Education, Kasturba Gandhi Balika Vidyalaya, etc. click here https://samagra.education.gov.in/"
+        },
+        {
+            "plan": "PM Jan Vikas Karyakaram",
+            "target_audience": "Pradhan Mantri Jan Vikas Karyakram (PMJVK) is a scheme launched by the Indian government to address the development deficits of the identified Minority Concentration Areas. The scheme aims to improve the socio-economic conditions of the minorities and provide basic amenities to them for improving the quality of life of the people and reducing imbalances in the identified Minority Concentration Areas (MCA). The scheme is implemented as a Centrally Sponsored Scheme (CSS) and has an estimated investment of ₹50,000 crore for its implementation during a period of 5 years from FY 2020-21 to FY 2024-25 in all States/Union Territories 1. The scheme has three components: education, health, and skill development. Under PMJVK, 80% of the resources would be utilized for projects related to education, health, and skill development of which at least 33-40% will be earmarked for creation of assets/facilities for women/girls . click herehttps://www.india.gov.in/spotlight/pradhan-mantri-jan-vikas-karyakram"
+        },
+        {
+            "plan": "Rashtriya Gram Swaraj Abhiyan",
+            "target_audience": "Rashtriya Gram Swaraj Abhiyan (RGSA) is a centrally sponsored scheme launched by the Indian government to develop and strengthen the Panchayati Raj System across India in rural areas. The scheme aims to re-imagine Panchayati Raj Institutions as vibrant centers of local self-governance and economic growth with special focus on localization of Sustainable Development Goals (SDGs) at grassroot level. The scheme provides capacity building and training for elected representatives of Panchayats, basic orientation and refresher training for Panchayat heads, and various schemes and initiatives for Gram Panchayats. click here https://rgsa.gov.in/index.htm"
+        },
+        {
+            "plan": "World Class Institutions Scheme",
+            "target_audience": "World Class Institutions Scheme is a scheme launched by the Indian government in 2017 to enable ten institutions each from the public and private category to have world-class academic and research facilities and grant them the status of Institution of Eminence (IoE) 1. The scheme aims to provide these institutions with significant autonomy in academic, administrative, and financial matters so that they can emerge as global educational institutions 1. The scheme has an estimated investment of ₹10,000 crore for its implementation during a period of five years from FY 2017-18 to FY 2021-22 in all States/Union Territories 1. So far, notifications have been issued for eleven institutions (eight public and three private) "
+        },
+        {
+            "plan": "Khelo India  National Programme for Development of Sports",
+            "target_audience": "Khelo India  National Programme for Development of Sports is a scheme launched by the Indian government to revive the sports culture in India at the grass-root level by building a strong framework for all sports played in the country and establish India as a great sporting nation. The scheme aims to provide a platform for the youth of the country to showcase their talent in various sports and to promote the spirit of sportsmanship. The scheme has several verticals, including State Level Khelo India Centres, Annual Sports Competitions, Talent Search and Development, Sports for Women, Support to National/Regional/State Sports Academies, Promotion of Sports among persons with disabilities, Promotion of rural and indigenous/tribal games, and Physical Fitness of School going Children. The scheme is implemented by the Sports Authority of India and the Ministry of Youth Affairs & Sports. click here https://www.kheloindia.gov.in/"
+        },
+        {
+            "plan": "Krishonnati Yojana",
+            "target_audience": "Krishonnati Yojana is an umbrella scheme launched by the Indian government in 2016 to promote the holistic and scientific development of agriculture and allied sectors in India. The scheme has an estimated investment of ₹33,269.976 crore for its implementation during a period of three financial years, i.e., 2017-18, 2018-19, and 2019-20 1. The scheme comprises of 11 schemes/missions, including Mission for Integrated Development of Horticulture (MIDH), National Food Security Mission (NFSM), National Mission for Sustainable Agriculture (NMSA), Sub-Mission on Agriculture Extension (SMAE), Sub-Mission on Seeds and Planting Material (SMSP), Sub-Mission on Agricultural Mechanisation (SMAM), Sub Mission on Plant Protection and Plan Quarantine (SMPPQ), Integrated Scheme on Agriculture Census, Economics and Statistics (ISACES), Integrated Scheme on Agricultural Cooperation (ISAC), Integrated Scheme on Agricultural Marketing (ISAM), and National e-Governance Plan (NeGP-A) 1. The scheme aims to develop the agriculture and allied sector in a holistic and scientific manner to increase the income of farmers by enhancing production, productivity, and better returns on produce . click here https://vikaspedia.in/agriculture/policies-and-schemes/crops-related/krishi-unnati-yojana/overview-of-krishonnati-yojana"
+        },
+        {
+            "plan": "Pradhan Mantri Matritva Vandana Yojana (PMMVY)",
+            "target_audience": " The Pradhan Mantri Matritva Vandana Yojana (PMMVY) is a maternity benefit program by the Ministry of Women and Child Development in India. It provides a cash incentive of ₹5000 to pregnant women of 19 years of age or above for the first live birth. The incentive is provided in three installments and is to be claimed within 150 days, 180 days, and at childbirth respectively. The scheme is aimed at women who were working and had to experience a wage loss due to pregnancy. click https://pmmvy.wcd.gov.in/"
+        },
+        {
+            "plan": "PM Ujjwala Yojana",
+            "target_audience": "The Pradhan Mantri Ujjwala Yojana (PMUY) is a scheme launched by the Prime Minister of India, Narendra Modi, on May 1, 2016. The scheme aims to provide LPG connections to women of Below Poverty Line (BPL) families. The scheme provides a financial support of ₹1600 for each LPG connection to the BPL households. The benefits of this scheme are also available for the people of all Hilly States including the NE States (who are treated as Priority States) click:The Pradhan Mantri Ujjwala Yojana (PMUY) is a scheme launched by the Prime Minister of India, Narendra Modi, on May 1, 2016. The scheme aims to provide LPG connections to women of Below Poverty Line (BPL) families. The scheme provides a financial support of ₹1600 for each LPG connection to the BPL households. The benefits of this scheme are also available for the people of all Hilly States including the NE States (who are treated as `Priority States).click https://www.pmuy.gov.in/"
+        },
+        {
+            "plan": "PM Fasal Bima Yojana",
+            "target_audience": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) is a government-sponsored crop insurance scheme in India. It aims to provide financial support to farmers suffering crop loss/damage arising out of unforeseen events, stabilize the income of farmers to ensure their continuance in farming, encourage farmers to adopt innovative and modern agricultural practices, and ensure the flow of credit to the agriculture sector. The scheme provides a financial support of ₹1600 for each LPG connection to the BPL households.click https://pmfby.gov.in/"
+        },
+        {
+            "plan": "Stand-Up India",
+            "target_audience": "Stand-Up India is a government scheme launched by the Prime Minister of India, Narendra Modi, on May 1, 2016. The scheme aims to provide bank loans between Rs. 10 lakh and Rs. 1 Crore to at least one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower and at least one woman borrower per bank branch for setting up a greenfield enterprise. The enterprise may be in manufacturing, services, agri-allied activities or the trading sector. The scheme also provides handholding support for beneficiaries of Stand-Up India.click https://www.myscheme.gov.in/schemes/sui"
+        },
+        {
+            "plan": "National Hydrology Project",
+            "target_audience": "The National Hydrology Project (NHP) is a Central Sector Scheme launched by the Indian government with a total outlay of ₹3679.7674 crores. The project aims to improve the extent, quality, and accessibility of water resources information and to strengthen the capacity of targeted water resources management institutions in India. The project comprises four broad components: Improving In Situ Monitoring System (IMS), Improving Spatial Information System (SIS), Promoting Water Resources Operation and Management Applications (WROMA), and Strengthening Water Resources Institutions and Capacity Building (WRICB).click https://nhp.mowr.gov.in/HomeNew/NHPIndexnew.aspx"
+        },
+        {
+            "plan": "PM Krishi Sinchai Yojana",
+            "target_audience":"The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) is a government scheme launched by the Prime Minister of India, Narendra Modi, on July 1, 2015. The scheme aims to extend the coverage of irrigation and improve water use efficiency in a focused manner with end-to-end solutions on source creation, distribution, management, field application, and extension activities. The scheme provides financial assistance to farmers for crop loss/damage arising out of unforeseen events, stabilize the income of farmers to ensure their continuance in farming, encourage farmers to adopt innovative and modern agricultural practices, and ensure the flow of credit to the agriculture sector click https://www.pmksy.gov.in/"
+                
+        },
+        {
+            "plan": "PM Mudra Yojana",
+            "target_audience":"MUDRA is a financial institution for funding small businesses.[55] 34,42,00,000 beneficiaries have received ₹18.6 lakh crore (equivalent to ₹21 trillion or US$260 billion in 2023).[56] New entrepreneurs consist 22% of the beneficiaries click https://www.mudra.org.in/"
+        },
+        {
+            "plan": "Smart Cities Mission",
+            "target_audience":"Redevelopment is any new construction on a site that has pre-existing uses. It represents a process of land development uses to revitalize the physical, economic and social fabric of urban space. click https://smartcities.gov.in/about-the-mission"
+
+        },
+        {
+            "plan": "Digital India",
+            "target_audience":"It aims to ensure that government services are available to citizens electronically and people get benefits from the latest information and communication technology.[61] Has expanded into production linked incentives, promotion of electronics manufacturing, R&D and improvement of the National Knowledge Network and electronic governance.[7] click:https://www.bing.com/search?q=Digital+India&FORM=HDRSC1"
+        },
+        {
+            "plan": "FAME India Scheme",
+            "target_audience":"FAME, or Faster Adoption and Manufacturing of (Hybrid and) Electric vehicles, is currently India's flagship scheme for promoting electric mobility. Currently in its 2 nd phase of implementation, FAME-II is being implemented for a period of 3 years, eff. 1 st April 2019 with a budget allocation of 10,000 Cr. click https://heavyindustries.gov.in/fame-ii"
+
+        },
+        {
+            "plan": "PM Awas Yojana - (Gramin)",
+            "target_audience":"Original form 1985.[63] Provides financial assistance to rural poor for constructing their houses themselves. This generates income and employment as well.[64] Sample housing designs have been proposed through UNDP, MoRD and IIT, Delhi collaboration clickhttps://rhreporting.nic.in/netiay/EFMSReport/FTOTransactionSummary.aspx"
+        },
+        {
+            "plan": "Atal Pension Yojana",
+            "target_audience":"Original form in 2010 as the Swavalamban Yojana.[69] A pension program that allows people to make voluntary contributions within a certain range with a matching government contribution to receive pension in the future. By September 2021, non-metros subscribers numbered 3,77,00,000. click https://www.india.gov.in/spotlight/atal-pension-yojana "
+        },
+        {
+            "plan": "PM Suraksha Bima Yojana",
+            "target_audience":"This accident insurance scheme is for individuals and can be renewed every year. By May 2021, over 80,000 claims valuing ₹1,629 crore (equivalent to ₹18 billion or US$230 million in 2023) registered. click https://www.financialservices.gov.in/beta/en/pmsby"
+        },
+        {
+            "plan": "PM Jeevan Jyoti Bima Yojana",
+            "target_audience":"Pradhan Mantri Jeevan Jyoti Bima Yojana is a Government-backed Life insurance scheme in India. It was originally mentioned in the year 2015 Budget speech by the then-Finance Minister, late Arun Jaitley in February 2015. It was formally launched by Prime Minister Narendra Modi on 9 May in Kolkata. As of May 2015, only 20% of India's population has any kind of insurance, this scheme aims to increase the number. click https://financialservices.gov.in/beta/en/pmjjby"
+
+        },
+        {
+            "plan": "Amar Ujala",
+            "target_audience":"Amar Ujala is a Hindi-language daily newspaper published in India which was founded in 1948. It has 22 editions in six states and two union territories covering 180 districts. It has a circulation of around two million copies. The 2019 Indian Readership Survey reported that with 9.65 million it had the 4th-largest daily readership amongst newspapers in India. click http://ujala.gov.in/"
+
+        },
+        {
+            "plan": "PM Kaushal Vikas Yojna",
+            "target_audience":"To provide encouragement to youth for development of employable skills by providing monetary rewards by recognition of prior learning or by undergoing certification training at affiliated centres. click https://msde.gov.in/en/schemes-initiatives/schemes-initiatives-through-nsdc/pradhan-mantri-kaushal-vikas-yojana-pmkvy"
+        },
+        {
+            "plan": "Heritage City Development and Augmentation Yojana",
+            "target_audience":"The scheme seeks to preserve and rejuvenate the rich cultural heritage of the country click :https://www.insightsonindia.com/social-justice/welfare-schemes/schemes-under-ministry-of-housing-and-urban-affairs/heritage-city-development-and-augmentation-yojana/"
+        },
+        {
+            "plan": "Sukanya Samridhi Yojana",
+            "target_audience":"The scheme under Beti Bachao Beti Padhao primarily ensures equitable share to a girl child in resources and savings of a family in which she is generally discriminated as against a male child clcik:https://www.myscheme.gov.in/schemes/ssy"
+        },
+        {
+            "plan": "PM Kaushal Vikas Yojana",
+            "target_audience":"Pradhan Mantri Kaushal Vikas Yojana or otherwise known as Pradhan Mantri Youth Training Program is a skill development initiative scheme of the Government of India for recognition and standardisation of skills. clickPradhan Mantri Kaushal Vikas Yojana or otherwise known as Pradhan Mantri Youth Training Program is a skill development initiative scheme of the Government of India for recognition and standardisation of skills.clickhttps://www.bing.com/search?pglt=41&q=pm+kaushal+vikas+yojana&cvid=3be3a20437264ef0928dc13307ddc34f&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARAAGEAyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEEUYPNIBBzY5NGowajGoAgCwAgA&FORM=ANNTA1&PC=W069"
+        },
+        {
+            "plan": "PM Bhartiya Jan Aushadhi Kendra",
+            "target_audience":"The scheme launched by the Department of Pharmaceuticals, Govt. Of India, to provide quality medicines at affordable prices to the masses. click The scheme launched by the Department of Pharmaceuticals, Govt. Of India, to provide quality medicines at affordable prices to the masses. click https://janaushadhi.gov.in/pmjy.aspx"
+        },
+        {
+            "plan": "Deendayal Antyodaya Yojana",
+            "target_audience":"Started as Aajeevika - National Rural Livelihoods Mission (NRLM) in 2011.[81] Self-employment programme to raise the income-generation capacity of target groups among the poor. The scheme has been merged with another scheme named Swarnajayanti Gram Swarozgar Yojana (SGSY). clcik https://www.india.gov.in/spotlight/deen-dayal-antyodaya-yojana"
+        },
+        {
+            "plan": "National Career Service",
+            "target_audience": "The objective of this project is to help job-seekers land up at the job they deserve. Under this scheme, an online job-portal named as National Career Service portal has been launched which acts as a common platform for job-seekers, employers, skill providers, government departments, placement organisations and counsellors .click https://www.bing.com/search?pglt=41&q=National+Career+Service&cvid=2286a1423c6c4e0db29913a0dc4b1edd&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQcyNjFqMGoxqAIAsAIA&FORM=ANNTA1&PC=W069"
+        },
+        {
+            "plan": "Deendayal Upadhyaya Gram Jyoti Yojana",
+            "target_audience":"he scheme will enable to initiate much awaited reforms in the rural areas. It focuses on feeder separation (rural households & agricultural) and strengthening of sub-transmission & distribution infrastructure including metering at all levels in rural areas. This will help in providing round the clock power to rural households and adequate power to agricultural consumers. The earlier scheme for rural electrification viz. Rajiv Gandhi Grameen Vidyutikaran Yojana has been subsumed in the new scheme as its rural electrification component click https://www.ddugjy.gov.in/"
+        },
+        {
+            "plan": "Atal Mission for Rejuvenation and Urban Transformation",
+            "target_audience":" Atal Mission for Rejuvenation and Urban Transformation (AMRUT) is a development mission launched by Prime Minister of India Narendra Modi in June 2015 with the focus to establish infrastructure that could ensure adequate robust sewage networks and water supply for urban transformation by implementing urban revival projects. clickhttps://www.india.gov.in/atal-mission-rejuvenation-and-urban-transformation-amrut"
+        } ,
+        {
+            "plan": "Swachh Bharat Abhiyan",
+            "target_audience": "Central Rural Sanitation Programme (CRSP) launched in 1986. In 1999 it became the Total Sanitation Campaign (TSC).[86] Multiple objectives including elimination of open defecation, addressing manual scavenging, and good sanitation and waste related practices clcik https://www.pmindia.gov.in/en/major_initiatives/swachh-bharat-abhiyan/"
+        }
+        
+       
+        
+    ]
+}
