@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(src/images/chatbot-banner-resize.jpg);
+    background-size: cover;
+}
+.main{
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 99vh;
+}
+.navbar{
+    width: 100%;
+    height: 75px;
+    margin: auto;
+    display: flex;
+}
+.pagename
+{
+    width: 600px;
+    float: left;
+    height: 70px;
+    padding-right: 300px;
+}
+.logo{
+    color:rgb(189, 0, 255);
+    font-size: 30px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 15px;
+   
+}
+.startbutton{
+    width: 600px;
+}
+.buttonradius{
+    padding-left: 200px;
+    padding-top: 25px; 
+}
+.butt{
+    width: 50%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-weight: 600;
+    background: linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%, hsla(356, 53%, 57%, 1) 100%);
+}
+.bot-chat{
+    padding-left: 250px;
+  padding-top: 50px;
+  
+  }
+  .chatbox {
+    width:1000px ;
+    height: 500px;
+    overflow: auto;
+   border: 2px solid white;
+    padding: 10px;
+    color: white;
+  
+    
+  }
+  .combination{
+    width: 1030px;
+    border: 1px solid white;
+    border-radius: 15px;
+    
+  
+  }
+  .input-box{
+    width: 950px;
+    height: 45px;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: transparent;
+    color: white;
+  }
+  .button-send{
+    border: none;
+    background-color: transparent;
+    float:right;
+    padding-top: 10px;
+    padding-right: 15px;
+    border-radius: 15px;
+  }
+  .user-message{
+    text-align: right;
+   margin-bottom: 10px;
+   
+    
+}
+.bot-message{
+    text-align: left;
+   margin-bottom: 10px;
+
+}
